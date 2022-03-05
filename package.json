@@ -27,6 +27,7 @@
     "node": ">=14.x"
   },
   "os": [
-    "linux"
+    "darwin",
+    "win32"
   ]
 }
