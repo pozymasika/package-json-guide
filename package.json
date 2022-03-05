@@ -30,5 +30,8 @@
     "darwin",
     "win32",
     "linux"
+  ],
+  "workspaces": [
+    "./packages/*"
   ]
 }
