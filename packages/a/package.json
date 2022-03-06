@@ -1,0 +1,22 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pozymasika/package-json-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pozymasika/package-json-guide/issues"
+  },
+  "homepage": "https://github.com/pozymasika/package-json-guide#readme",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
+}
